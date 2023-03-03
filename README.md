@@ -1,4 +1,4 @@
-# iview-admin-4.0.0
+# iview-admin-4.0
 
 #### 介绍
 基于iview admin 2.0 ，ViewUI 4.0 ，兴趣使然，如此 iView Admin 4.0
