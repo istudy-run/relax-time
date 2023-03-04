@@ -13,5 +13,5 @@
  https://istudy-run.gitee.io/iview-admin-4.0
 
 
-#### 效果图
+#### 预览效果
 ![输入图片说明](preview.png)
