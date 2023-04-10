@@ -1,7 +1,7 @@
-# iview-admin-4.0
+# Admin Labs
 
 #### 介绍
-基于iview admin 2.5.0 ，ViewUI 4.7.0 ，如此 iView Admin 4.0
+基于iview admin 2.5.0 ，ViewUI 4.7.0 ，如此 Admin Labs
 
 #### 软件架构
 
@@ -10,7 +10,7 @@
 3.  基础框架：iView Admin 2.5.0 
 
 #### 预览地址
- https://istudy-run.gitee.io/iview-admin-4.0
+ https://istudy-run.gitee.io/admin-labs
 
 
 #### 预览效果
